@@ -35,7 +35,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 docker exec 87aa91462f56 kafka-topics.sh --create --bootstrap-server localhost:9092 --topic tag
 docker exec 87aa91462f56 kafka-topics.sh --create --bootstrap-server localhost:9092 --topic question
 docker exec 87aa91462f56 kafka-topics.sh --create --bootstrap-server localhost:9092 --topic profile
-![MERN](https://user-images.githubusercontent.com/54031828/176218900-76120463-56de-4306-b7e1-a63e7a6bfe6a.jpg)
+
 
 
 
